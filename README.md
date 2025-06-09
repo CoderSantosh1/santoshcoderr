@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Santosh Kumar</h1>
-<p align="center">I'm a passionate full stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js,  React, Angular, SQL/NoSQL databases, Docker and Git.</p>
+<p align="center">I'm a passionate full-stack developer with 2 years of experience building web applications. I'm proficient in a variety of technologies, including JavaScript, Node.js,  React, Angular, SQL/NoSQL databases, Docker and Git.</p>
 
 # About Me
 
@@ -13,7 +13,7 @@ I love to learn and grow in my field, and I'm always excited about the opportuni
 If you're looking for a talented developer to join your team or collaborate on a project, I'd love to hear from you! Feel free to connect with me here on GitHub.
 
 <p align="left">
-<a href="https://codepen.io/veerkbharti" target="blank"<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="santoshcoderr" height="30" width="40" /></a>
+<a href="https://codepen.io/santoshcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="santoshcoderr" height="30" width="40" /></a>
 <a href="https://dev.to/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://twitter.com/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerkbharti" height="30" width="40" /></a>
