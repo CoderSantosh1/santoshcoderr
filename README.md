@@ -15,8 +15,7 @@ If you're looking for a talented developer to join your team or collaborate on a
 <p align="left">
 <a href="https://codepen.io/santoshcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="santoshcoderr" height="30" width="40" /></a>
 <a href="https://dev.to/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="veerkbharti" height="30" width="40" /></a>
-<a href="https://twitter.com/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veerkbharti" height="30" width="40" /></a>
-
+<a href="https://twitter.com/santoshcoderr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshcoderr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santosh-kumar-242433209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://codesandbox.com/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="veerkbharti" height="30" width="40" /></a>
 <a href="https://instagram.com/veerkbharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veerkbharti" height="30" width="40" /></a>
